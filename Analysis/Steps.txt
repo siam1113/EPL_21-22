@@ -1,0 +1,2 @@
+1. Separate both awayteam and hometeam socre in indivual column
+2. Create a column showing which team won ( home or away )
